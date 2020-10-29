@@ -2,6 +2,10 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+It is difficult for the beginer.
+I am still no idea for the funtion now. e.g. plot.
+the sencond part exciese of datacamp is hard for me.
+
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
